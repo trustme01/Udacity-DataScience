@@ -1,2 +1,2 @@
-# hello-world---Udacity
+# hello-world-Udacity
 Udacity - Data Analyst Nanodegree
