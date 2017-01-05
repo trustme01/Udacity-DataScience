@@ -13,7 +13,7 @@ This repository contains all the projects I completed for the Udacity Data Analy
 - **p7** - Design an A/B Test
 
 ### Courses:
-- Intro to Data Science
+- Statistics
 - Data Wrangling with MongoDB
 - Data Analysis with R
 - Intro to Machine Learning
