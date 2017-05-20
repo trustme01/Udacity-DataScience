@@ -15,7 +15,8 @@ This repository contains all the projects I completed for the Udacity Data Analy
 
 ### Courses:
 - Statistics
-- Data Wrangling with MongoDB
+- Data Wrangling 
 - Data Analysis with R
 - Intro to Machine Learning
-- Data Visualization and D3.js
+- Data Visualization with Tableau
+- A/B Testing
